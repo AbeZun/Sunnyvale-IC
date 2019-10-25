@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		49092624235A20DB0097AB2D /* PrayerRequestWebViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49092623235A20DB0097AB2D /* PrayerRequestWebViewController.swift */; };
 		491CA3B82347085200074691 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 491CA3B72347085200074691 /* AppDelegate.swift */; };
 		491CA3BA2347085200074691 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 491CA3B92347085200074691 /* ViewController.swift */; };
 		491CA3BD2347085200074691 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 491CA3BB2347085200074691 /* Main.storyboard */; };
@@ -14,6 +15,7 @@
 		491CA3C22347085400074691 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 491CA3C02347085400074691 /* LaunchScreen.storyboard */; };
 		491CA3CD2347085400074691 /* Sunnyvale_ICTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 491CA3CC2347085400074691 /* Sunnyvale_ICTests.swift */; };
 		491CA3D82347085400074691 /* Sunnyvale_ICUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 491CA3D72347085400074691 /* Sunnyvale_ICUITests.swift */; };
+		49DADD732350088A00F541D4 /* CalendarWebViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49DADD722350088A00F541D4 /* CalendarWebViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -34,6 +36,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		49092623235A20DB0097AB2D /* PrayerRequestWebViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PrayerRequestWebViewController.swift; sourceTree = "<group>"; };
 		491CA3B42347085200074691 /* Sunnyvale IC.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Sunnyvale IC.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		491CA3B72347085200074691 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		491CA3B92347085200074691 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -47,6 +50,7 @@
 		491CA3D32347085400074691 /* Sunnyvale ICUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Sunnyvale ICUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		491CA3D72347085400074691 /* Sunnyvale_ICUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Sunnyvale_ICUITests.swift; sourceTree = "<group>"; };
 		491CA3D92347085400074691 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		49DADD722350088A00F541D4 /* CalendarWebViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalendarWebViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,7 +103,9 @@
 			children = (
 				491CA3B72347085200074691 /* AppDelegate.swift */,
 				491CA3B92347085200074691 /* ViewController.swift */,
+				49DADD722350088A00F541D4 /* CalendarWebViewController.swift */,
 				491CA3BB2347085200074691 /* Main.storyboard */,
+				49092623235A20DB0097AB2D /* PrayerRequestWebViewController.swift */,
 				491CA3BE2347085400074691 /* Assets.xcassets */,
 				491CA3C02347085400074691 /* LaunchScreen.storyboard */,
 				491CA3C32347085400074691 /* Info.plist */,
@@ -256,7 +262,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				49092624235A20DB0097AB2D /* PrayerRequestWebViewController.swift in Sources */,
 				491CA3BA2347085200074691 /* ViewController.swift in Sources */,
+				49DADD732350088A00F541D4 /* CalendarWebViewController.swift in Sources */,
 				491CA3B82347085200074691 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
