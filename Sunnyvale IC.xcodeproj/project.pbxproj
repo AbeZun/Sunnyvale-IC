@@ -15,6 +15,9 @@
 		491CA3C22347085400074691 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 491CA3C02347085400074691 /* LaunchScreen.storyboard */; };
 		491CA3CD2347085400074691 /* Sunnyvale_ICTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 491CA3CC2347085400074691 /* Sunnyvale_ICTests.swift */; };
 		491CA3D82347085400074691 /* Sunnyvale_ICUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 491CA3D72347085400074691 /* Sunnyvale_ICUITests.swift */; };
+		4954E03F23753CF100CAA00D /* ConnectCardViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4954E03E23753CF100CAA00D /* ConnectCardViewController.swift */; };
+		4954E0412375D2DE00CAA00D /* TeamViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4954E0402375D2DE00CAA00D /* TeamViewController.swift */; };
+		4954E0432375D43900CAA00D /* GalleryViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4954E0422375D43900CAA00D /* GalleryViewController.swift */; };
 		49DADD732350088A00F541D4 /* CalendarWebViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49DADD722350088A00F541D4 /* CalendarWebViewController.swift */; };
 /* End PBXBuildFile section */
 
@@ -50,6 +53,9 @@
 		491CA3D32347085400074691 /* Sunnyvale ICUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Sunnyvale ICUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		491CA3D72347085400074691 /* Sunnyvale_ICUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Sunnyvale_ICUITests.swift; sourceTree = "<group>"; };
 		491CA3D92347085400074691 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4954E03E23753CF100CAA00D /* ConnectCardViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConnectCardViewController.swift; sourceTree = "<group>"; };
+		4954E0402375D2DE00CAA00D /* TeamViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TeamViewController.swift; sourceTree = "<group>"; };
+		4954E0422375D43900CAA00D /* GalleryViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GalleryViewController.swift; sourceTree = "<group>"; };
 		49DADD722350088A00F541D4 /* CalendarWebViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalendarWebViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -105,6 +111,9 @@
 				491CA3B92347085200074691 /* ViewController.swift */,
 				49DADD722350088A00F541D4 /* CalendarWebViewController.swift */,
 				491CA3BB2347085200074691 /* Main.storyboard */,
+				4954E0422375D43900CAA00D /* GalleryViewController.swift */,
+				4954E0402375D2DE00CAA00D /* TeamViewController.swift */,
+				4954E03E23753CF100CAA00D /* ConnectCardViewController.swift */,
 				49092623235A20DB0097AB2D /* PrayerRequestWebViewController.swift */,
 				491CA3BE2347085400074691 /* Assets.xcassets */,
 				491CA3C02347085400074691 /* LaunchScreen.storyboard */,
@@ -263,7 +272,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				49092624235A20DB0097AB2D /* PrayerRequestWebViewController.swift in Sources */,
+				4954E0432375D43900CAA00D /* GalleryViewController.swift in Sources */,
+				4954E0412375D2DE00CAA00D /* TeamViewController.swift in Sources */,
 				491CA3BA2347085200074691 /* ViewController.swift in Sources */,
+				4954E03F23753CF100CAA00D /* ConnectCardViewController.swift in Sources */,
 				49DADD732350088A00F541D4 /* CalendarWebViewController.swift in Sources */,
 				491CA3B82347085200074691 /* AppDelegate.swift in Sources */,
 			);
