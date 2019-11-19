@@ -259,6 +259,9 @@
                                     <navigationItem title="Video" id="TXu-7p-t1m">
                                         <barButtonItem key="leftBarButtonItem" title="Back" id="ABc-ZG-6KB">
                                             <color key="tintColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                            <connections>
+                                                <segue destination="BYZ-38-t0r" kind="show" id="Jn6-Yf-LFx"/>
+                                            </connections>
                                         </barButtonItem>
                                     </navigationItem>
                                 </items>
@@ -350,6 +353,9 @@
                                     <navigationItem title="Give" id="FdL-kP-dWd">
                                         <barButtonItem key="leftBarButtonItem" title="Back" id="XK2-8f-w2F">
                                             <color key="tintColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                            <connections>
+                                                <segue destination="BYZ-38-t0r" kind="show" id="w3H-Zf-fm7"/>
+                                            </connections>
                                         </barButtonItem>
                                     </navigationItem>
                                 </items>
@@ -437,6 +443,6 @@
         <image name="page" width="40" height="49"/>
     </resources>
     <inferredMetricsTieBreakers>
-        <segue reference="Bli-XV-SIF"/>
+        <segue reference="w3H-Zf-fm7"/>
     </inferredMetricsTieBreakers>
 </document>
