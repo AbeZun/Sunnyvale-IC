@@ -20,6 +20,7 @@
 		4954E0432375D43900CAA00D /* GalleryViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4954E0422375D43900CAA00D /* GalleryViewController.swift */; };
 		49AE734E238370FB0017CB0B /* GiveViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49AE734D238370FB0017CB0B /* GiveViewController.swift */; };
 		49AE7350238373C10017CB0B /* VideoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49AE734F238373C10017CB0B /* VideoViewController.swift */; };
+		49B45A932388425100B5BA18 /* MessageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49B45A922388425100B5BA18 /* MessageViewController.swift */; };
 		49DADD732350088A00F541D4 /* CalendarWebViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49DADD722350088A00F541D4 /* CalendarWebViewController.swift */; };
 /* End PBXBuildFile section */
 
@@ -60,6 +61,7 @@
 		4954E0422375D43900CAA00D /* GalleryViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GalleryViewController.swift; sourceTree = "<group>"; };
 		49AE734D238370FB0017CB0B /* GiveViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GiveViewController.swift; sourceTree = "<group>"; };
 		49AE734F238373C10017CB0B /* VideoViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VideoViewController.swift; sourceTree = "<group>"; };
+		49B45A922388425100B5BA18 /* MessageViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MessageViewController.swift; sourceTree = "<group>"; };
 		49DADD722350088A00F541D4 /* CalendarWebViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalendarWebViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -115,6 +117,7 @@
 				491CA3B92347085200074691 /* ViewController.swift */,
 				49DADD722350088A00F541D4 /* CalendarWebViewController.swift */,
 				491CA3BB2347085200074691 /* Main.storyboard */,
+				49B45A922388425100B5BA18 /* MessageViewController.swift */,
 				49AE734F238373C10017CB0B /* VideoViewController.swift */,
 				49AE734D238370FB0017CB0B /* GiveViewController.swift */,
 				4954E0422375D43900CAA00D /* GalleryViewController.swift */,
@@ -281,6 +284,7 @@
 				4954E0432375D43900CAA00D /* GalleryViewController.swift in Sources */,
 				49AE7350238373C10017CB0B /* VideoViewController.swift in Sources */,
 				4954E0412375D2DE00CAA00D /* TeamViewController.swift in Sources */,
+				49B45A932388425100B5BA18 /* MessageViewController.swift in Sources */,
 				491CA3BA2347085200074691 /* ViewController.swift in Sources */,
 				4954E03F23753CF100CAA00D /* ConnectCardViewController.swift in Sources */,
 				49AE734E238370FB0017CB0B /* GiveViewController.swift in Sources */,
